@@ -1,4 +1,8 @@
 #Desafio Capgemini
+Tecnologias usadas:
+
+Nodejs
+
 
 Informações para rodar os resultados:
 
