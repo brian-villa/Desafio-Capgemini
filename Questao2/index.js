@@ -46,7 +46,7 @@ const ContadordeCarac = (e) => {
 
         let resto = 6 - inputPassword.value.length
 
-        textArea.innerHTML += `<p>faltam ${resto} caracteres para ter uma senha segura</p>` 
+        textArea.innerHTML += `<p>Você digitou ${inputPassword.value.length} caracteres faltam ${resto} caracteres para ter uma senha segura</p>` 
     }
 
     passwordGen()

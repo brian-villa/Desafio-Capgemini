@@ -26,5 +26,4 @@ node index.js
 ##Questão 2:
 
 
-apenas vai rodar na respectiva pasta de cada QUESTÃO
 
