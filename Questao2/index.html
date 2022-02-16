@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Questão 2</title>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        h1 {
+            text-align: center;
+        }
+       
+        .form1 {
+            display: flex;
+            border: 2px solid black;
+            margin: auto;
+            margin-top: 70px;
+            width: 25%;
+            height: 400px;
+            padding: 20px;
+        }
+
+        #password {
+            margin-left: 5px;
+            height: 20px;
+        }
+
+        #button {
+            display: block;
+            margin-left: 10px;
+            width: 50px;
+            height: 20px;
+        }
+
+        #text {
+            display: flex;
+            margin: auto;
+            margin-left: -220px;
+        }
+
+    </style>
+</head>
+<body>
+    <h1>Preencha a sua senha</h1>
+    <div class="mainDiv">
+        <div class="container">
+            <form class="form1">
+                <label> Digite sua senha: </label>
+                <input type="text" name="senha" id="password">
+                <div class="button">
+                    <button id="button">OK</button>
+                </div>
+                
+                <div id="text"></div>
+            </form>
+        </div>
+    </div>
+    
+
+
+
+    <script src="index.js"></script>
+</body>
+</html>
