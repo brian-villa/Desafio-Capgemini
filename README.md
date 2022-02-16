@@ -3,7 +3,7 @@
 
 Tecnologias usadas:
 
-Nodejs
+ES6, HTML, CSS, Nodejs
 
 
 Informações para rodar os resultados:
