@@ -11,7 +11,9 @@ Informações para rodar os resultados:
 
 ##QUESTÃO 1:
 
-Caso não possua o Nodejs fazer download em:
+1# Clonar o repositório
+
+2# Caso não possua o Nodejs fazer download em:
 
 https://nodejs.org/en/download/ 
 
@@ -23,8 +25,17 @@ node index.js
 
 
 
+####################
+
+
 ##Questão 2:
 
+acessar:
 
-apenas vai rodar na respectiva pasta de cada QUESTÃO
+https://brian-villa.github.io/Desafio-Capgemini/Questao2/
+
+e abrir o console do DevTools
+
+
+
 
