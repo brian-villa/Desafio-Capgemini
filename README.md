@@ -1,5 +1,11 @@
 #Desafio Capgemini
 
+
+Tecnologias usadas:
+
+Nodejs
+
+
 Informações para rodar os resultados:
 
 
@@ -15,7 +21,10 @@ Dentro da pasta da QUESTÃO 1 no terminal, rodar:
 
 node index.js
 
-----------------------
+
 
 ##Questão 2:
+
+
+apenas vai rodar na respectiva pasta de cada QUESTÃO
 
