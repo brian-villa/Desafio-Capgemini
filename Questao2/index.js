@@ -3,6 +3,12 @@ const upperCase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 const numbers = "0123456789"
 const especialCarac = "!@#$%^&*()-+"
 
+const inputPassword = document.querySelector("#password")
+const Abutton = document.querySelector("#button")
+let textArea = document.querySelector("#text")
+
+Abutton.addEventListener('click', ContadordeCarac)
+
 const getLowerCase = () =>  {
     return lowerCase[Math.floor(Math.random() * lowerCase.length)]
 }
@@ -34,9 +40,7 @@ const passwordGen = () => {
 }
 
 
-const inputPassword = document.querySelector("#password")
-const Abutton = document.querySelector("#button")
-let textArea = document.querySelector("#text")
+
 
 
 const ContadordeCarac = (e) => {
@@ -53,7 +57,6 @@ const ContadordeCarac = (e) => {
     inputPassword.value = ""
 }
 
-Abutton.addEventListener('click', ContadordeCarac)
 
 
 

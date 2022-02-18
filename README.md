@@ -37,5 +37,14 @@ https://brian-villa.github.io/Desafio-Capgemini/Questao2/
 e abrir o console do DevTools
 
 
+##Questão 3:
+
+Dentro da pasta da QUESTÃO 3 no terminal, rodar:
+
+node index.js
+
+
+
+
 
 
